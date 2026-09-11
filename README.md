@@ -53,7 +53,7 @@ const praveen = {
         "Artificial Intelligence / ML",
         "Building for real problems, not just resumes"
     ],
-    codingJourney: "500+ problems solved across LeetCode, Codeforces & CodeChef",
+    codingJourney: "1000+ problems solved across LeetCode, Codeforces & CodeChef",
     philosophy: "Build for people. Build with purpose. Build for the future. 🇮🇳",
     currentlyLearning: "while (alive) { learn(); build(); improve(); }"
 };
