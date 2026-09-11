@@ -1,21 +1,13 @@
 <!--
-    ██████╗ ██████╗  █████╗ ██╗   ██╗███████╗███████╗███╗   ██╗
-    ██╔══██╗██╔══██╗██╔══██╗██║   ██║██╔════╝██╔════╝████╗  ██║
-    ██████╔╝██████╔╝███████║██║   ██║█████╗  █████╗  ██╔██╗ ██║
-    ██╔═══╝ ██╔══██╗██╔══██║╚██╗ ██╔╝██╔══╝  ██╔══╝  ██║╚██╗██║
-    ██║     ██║  ██║██║  ██║ ╚████╔╝ ███████╗███████╗██║ ╚████║
-    ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚══════╝╚═╝  ╚═══╝
-
-    This profile is not a finished story.
-
-    It is evidence of a beginning.
+This profile is not a finished story.
+It is evidence of a beginning.
 -->
 
 <div align="center">
 
 # PRAVEEN KUMAR
 
-### `student` · `builder` · `problem solver` · `dreamer`
+### student · builder · problem solver · dreamer
 
 <br>
 
@@ -23,27 +15,21 @@
 >
 > **I am trying to become someone worth remembering.**
 
-<br>
-
 </div>
 
 ---
 
-<br>
-
-## `01.` THE BEGINNING
+## 01. THE BEGINNING
 
 Every developer has a first line of code.
 
 Every builder has a first idea.
 
-Every person who creates something meaningful
-starts at a point where nobody knows their name.
+Every person who creates something meaningful starts at a point where nobody knows their name.
 
-This is mine.
+**This is mine.**
 
-I am **Praveen Kumar** — a B.Tech student learning,
-building, failing, improving, and moving forward.
+I am **Praveen Kumar** — a B.Tech student learning, building, failing, improving, and moving forward.
 
 I don't have all the answers.
 
@@ -52,27 +38,18 @@ I don't know everything.
 But I have something more important:
 
 ```text
-              CURIOSITY.
-
+              CURIOSITY
                   ↓
-
-               COURAGE.
-
+               COURAGE
                   ↓
-
-             CONSISTENCY.
-
+             CONSISTENCY
                   ↓
-
-              CREATION.
-
+              CREATION
                   ↓
-
-                IMPACT.
+                IMPACT
 
 And I believe that is enough to begin.
 
-<br>
 02. WHAT I AM BUILDING TOWARDS
 
 I am not learning programming just to write code.
@@ -101,18 +78,10 @@ Things that make people say:
 
 "Someone cared enough to build this."
 
-<br>
 03. THE PERSON BEHIND THE CODE
-#include <iostream>
-#include <dreams>
-#include <curiosity>
-
-using namespace std;
-
 class Praveen {
 
 private:
-
     bool afraid = true;
     bool experienced = false;
 
@@ -120,30 +89,13 @@ public:
 
     string currentStage = "Learning";
 
-    vector<string> learning = {
-        "Data Structures & Algorithms",
-        "Web Development",
-        "React",
-        "Artificial Intelligence"
-    };
-
-    vector<string> beliefs = {
-        "Start before you feel ready",
-        "Consistency beats motivation",
-        "Build before seeking validation",
-        "Failure is part of becoming"
-    };
-
     void future() {
 
         while (!experienced) {
 
             learn();
-
             build();
-
             fail();
-
             learnAgain();
 
         }
@@ -151,16 +103,22 @@ public:
     }
 
 };
-<br>
 
-The code above is obviously incomplete.
+The code above is incomplete.
 
 So am I.
 
 And that is the point.
 
-<br>
-04. THE JOURNEY`
+I am still learning.
+
+Still failing.
+
+Still improving.
+
+Still becoming.
+
+04. THE JOURNEY
                  THE JOURNEY
 
        ┌──────────────────────────────┐
@@ -199,11 +157,10 @@ And that is the point.
 
 I don't know exactly where my journey will take me.
 
-But I know one thing.
+But I know one thing:
 
 I don't want to stay where I started.
 
-<br>
 05. WHAT I AM LEARNING
 <div align="center">
 🧠 THINK
@@ -222,12 +179,12 @@ Artificial Intelligence
 
 Projects with real purpose
 
-</div> <br>
+</div>
 06. PROJECTS ARE MY EXPERIMENTS
 
 I don't see repositories as folders containing code.
 
-I see them as snapshots.
+I see them as snapshots of my journey.
 
 Each one represents something I didn't know before.
 
@@ -250,22 +207,19 @@ things I had to learn
         =
 
 someone I wasn't before
-Some of my experiments:
-<br>
 🛡️ PRAHARI AI
 
 Exploring how Artificial Intelligence can become more than technology.
 
 The goal is not simply to build an AI project.
 
-The goal is to understand what AI can do
-when it is connected to a real problem.
+The goal is to understand what AI can do when it is connected to a real problem.
 
 🔐 TRUSTIFY
 
 An experiment in building through technology.
 
-Because sometimes the best projects don't start with:
+Sometimes the best projects don't start with:
 
 "What can I build?"
 
@@ -281,22 +235,13 @@ But small projects are important.
 
 Because every great developer once built something small.
 
-A calculator.
-
-A website.
-
-A game.
-
-A simple application.
-
 And then they built something bigger.
 
-<br>
 07. MATRIBHUMI 🇮🇳
 <div align="center">
 मातृभूमि
 A word that reminds me where I come from.
-<br> </div>
+</div>
 
 For me, MATRIBHUMI is not just a project name.
 
@@ -304,8 +249,7 @@ It represents a question:
 
 What if technology was built with responsibility?
 
-What if young developers didn't only build
-for marks, portfolios, or jobs?
+What if young developers didn't only build for marks, portfolios, or jobs?
 
 What if we also built because:
 
@@ -316,29 +260,20 @@ Someone needs a solution.
 And maybe...
 
 we can build it.
-<br>
 
 I believe India has millions of problems.
 
 But it also has millions of young minds.
 
-And somewhere between those two things
+And somewhere between those two things exists an opportunity to create something extraordinary.
 
-exists an opportunity to create something extraordinary.
-
-<br> <div align="center">
+<div align="center">
 BUILD FOR PEOPLE.
 BUILD WITH PURPOSE.
 BUILD FOR THE FUTURE.
 🇮🇳
-</div> <br>
+</div>
 08. MY RULES
-
-I don't want to remember my journey
-only by how many repositories I created.
-
-I want to remember it by how I lived while building.
-
 01  Learn without pretending to know.
 
 02  Build without waiting for perfection.
@@ -352,8 +287,7 @@ I want to remember it by how I lived while building.
 06  Stay curious.
 
 07  Keep going.
-<br>
-09. CURRENTLY`
+09. CURRENTLY
 ┌─────────────────────────────────────────────┐
 │                                             │
 │   STATUS                                    │
@@ -370,7 +304,6 @@ I want to remember it by how I lived while building.
 │   └── Become better than yesterday.         │
 │                                             │
 └─────────────────────────────────────────────┘
-<br>
 10. FOR THE PERSON WHO FOUND THIS PROFILE
 
 Maybe you are already a great developer.
@@ -396,14 +329,10 @@ The first attempt may fail.
 
 START ANYWAY.
 
-Because one day you may look back
-at the project you're embarrassed by today
-
-and realize:
+Because one day you may look back at the project you're embarrassed by today and realize:
 
 That was the moment everything started.
 
-<br>
 11. THE PROMISE
 
 I cannot promise that every project here will succeed.
@@ -419,11 +348,10 @@ I WILL KEEP LEARNING.
 I WILL KEEP BUILDING.
 I WILL KEEP IMPROVING.
 I WILL NOT STOP BECAUSE THE BEGINNING IS SMALL.
-</div> <br>
+</div>
 12. ONE DAY...
 
-Maybe years from now,
-someone will visit this profile.
+Maybe years from now, someone will visit this profile.
 
 They will see hundreds of projects.
 
@@ -433,7 +361,7 @@ They will see a completely different person.
 
 But I hope one thing remains here.
 
-This reminder.
+This reminder:
 
 Before everything...
 
@@ -448,7 +376,6 @@ A dream.
 And the decision
 
 to begin.
-<br>
 <div align="center">
 THIS IS NOT MY SUCCESS STORY.
 THIS IS THE FIRST PAGE OF IT.
@@ -458,4 +385,4 @@ THIS IS THE FIRST PAGE OF IT.
 
 while (alive) { learn(); build(); improve(); }
 
-</div> ```
+</div>
