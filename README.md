@@ -244,19 +244,7 @@ India has millions of problems. But it also has millions of young minds. And som
 
 ---
 
-## 10. MY RULES
-
-```
-01  Learn without pretending to know.
-02  Build without waiting for perfection.
-03  Ask questions without being ashamed.
-04  Fail without losing direction.
-05  Help people whenever possible.
-06  Stay curious.
-07  Keep going.
-```
-
-## 11. CURRENTLY
+## 10. CURRENTLY
 
 ```
 ┌─────────────────────────────────────────────┐
@@ -274,60 +262,6 @@ India has millions of problems. But it also has millions of young minds. And som
 │   └── Become better than yesterday.         │
 └─────────────────────────────────────────────┘
 ```
-
----
-
-## 12. FOR THE PERSON WHO FOUND THIS PROFILE
-
-Maybe you are already a great developer. Maybe you are a student like me. Maybe you are someone who is afraid to start. If that is you, remember this:
-
-```
-Nobody begins as an expert.
-
-Nobody writes perfect code on day one.
-
-Nobody builds something great
-without first building something small.
-
-The first project may be ugly.
-The first code may be bad.
-The first attempt may fail.
-
-START ANYWAY.
-```
-
-> **That was the moment everything started.**
-
-## 13. THE PROMISE
-
-I cannot promise that every project here will succeed. I cannot promise that this journey will be easy. But I can promise myself this:
-
-# I WILL KEEP LEARNING.
-# I WILL KEEP BUILDING.
-# I WILL KEEP IMPROVING.
-# I WILL NOT STOP BECAUSE THE BEGINNING IS SMALL.
-
-## 14. ONE DAY...
-
-Maybe years from now, someone will visit this profile. They will see hundreds of projects, things that don't exist today, a completely different person. But I hope one thing remains here:
-
-```
-Before everything...
-
-there was nothing impressive.
-
-There was only a student.
-
-A computer.
-
-A dream.
-
-And the decision
-
-to begin.
-```
-
----
 
 <div align="center">
 
