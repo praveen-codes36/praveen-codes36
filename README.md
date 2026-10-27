@@ -11,7 +11,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=praveen-codes36&label=PROFILE+VIEWS&color=00e5ff&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/praveen-codes36?style=for-the-badge&logo=github&color=a855f7)
-![Repos](https://img.shields.io/badge/PUBLIC%20REPOS-7-22c55e?style=for-the-badge&logo=git&logoColor=white)
+![Repos](https://img.shields.io/badge/PUBLIC%20REPOS-16-22c55e?style=for-the-badge&logo=git&logoColor=white)
 ![SIH](https://img.shields.io/badge/SIH%202026-MNNIT%20Allahabad-f97316?style=for-the-badge)
 
 </div>
